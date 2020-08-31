@@ -1,0 +1,12 @@
+C:\Users\QDATA\documents\visual studio 2015\Projects\WebCar\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\QDATA\documents\visual studio 2015\Projects\WebCar\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\QDATA\documents\visual studio 2015\Projects\WebCar\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\QDATA\documents\visual studio 2015\Projects\WebCar\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\QDATA\documents\visual studio 2015\Projects\WebCar\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\QDATA\documents\visual studio 2015\Projects\WebCar\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\QDATA\documents\visual studio 2015\Projects\WebCar\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\QDATA\documents\visual studio 2015\Projects\WebCar\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\QDATA\documents\visual studio 2015\Projects\WebCar\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\QDATA\documents\visual studio 2015\Projects\WebCar\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\QDATA\documents\visual studio 2015\Projects\WebCar\DataAccess\bin\Debug\Entities.dll
+C:\Users\QDATA\documents\visual studio 2015\Projects\WebCar\DataAccess\bin\Debug\Entities.pdb
